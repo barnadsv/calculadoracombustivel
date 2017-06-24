@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculadora de Combustível</string>
+    <string name="titulo">Calculadora de Combustível</string>
+    <string name="subtitulo_melhor_combustivel">Cálculo do Melhor Combustível</string>
+    <string name="subtitulo_media_simples">Cálculo da Média Simples</string>
+    <string name="subtitulo_media_completa">Cálculo da Média Completa</string>
+    <string name="subtitulo_gasto_dinheiro">Cálculo do Gasto em Dinheiro</string>
+    <string name="title_activity_melhor_combustivel">MelhorCombustivelActivity</string>
+    <string name="precoGasolinaHint">Preço da gasolina (R$)</string>
+    <string name="precoAlcoolHint">Preço do álcool (R$)</string>
+    <string name="consumoGasolinaHint">Consumo de gasolina (km/l)</string>
+    <string name="consumoAlcoolHint">Consumo de álcool (km/l)</string>
+    <string name="distanciaPercorridaHint">Distância percorrida (km)</string>
+    <string name="qtdConsumidaHint">Quantidade consumida (l)</string>
+    <string name="kmInicialHint">Quilometragem inicial</string>
+    <string name="kmFinalHint">Quilometragem final</string>
+    <string name="consumoCombustivelHint">Consumo de combustível (km/l)</string>
+    <string name="precoCombustivelHint">Preço do combustível (R$)</string>
+    <string name="calcular">Calcular</string>
+    <string name="retornar">Retornar</string>
+    <string name="calcularMelhorCombustivel">Cálculo do Melhor Combustível</string>
+    <string name="calcularMediaSimples">Cálculo da Média Simples</string>
+    <string name="calcularMediaCompleta">Cálculo da Média Completa</string>
+    <string name="calcularGastoDinheiro">Cálculo do Gasto em Dinheiro</string>
+    <string name="resultadoMelhorCombustivel">Resultado: %1$s</string>
+    <string name="resultadoMedia">Resultado: %1$s km/l</string>
+    <string name="resultadoGastoDinheiro">Resultado: R$ %1$s</string>
+    <string name="atencao">Atenção: %1$s!</string>
+</resources>
